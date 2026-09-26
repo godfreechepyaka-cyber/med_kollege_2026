@@ -138,7 +138,7 @@ importers:
         specifier: ^1.0.0
         version: 1.0.0(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6(supports-color@8.1.1))(preact@10.29.8)(unified@11.0.5)(vfile@6.0.3)
       '@quartz-community/syntax-highlighting':
-        specifier: ^1.0.0
+        specifier: ^1.0.1
         version: 1.0.1(preact@10.29.8)(shiki@4.4.3)(unified@11.0.5)(vfile@6.0.3)
       '@quartz-community/table-of-contents':
         specifier: ^1.0.0
@@ -250,7 +250,7 @@ importers:
         specifier: ^1.0.0
         version: 1.0.0(unified@11.0.5)(vfile@6.0.3)
       '@quartz-community/utils':
-        specifier: ^1.0.0
+        specifier: ^1.0.1
         version: 1.0.1(github-slugger@2.0.0)(hast-util-to-jsx-runtime@2.3.6(supports-color@8.1.1))(preact@10.29.8)(unified@11.0.5)(vfile@6.0.3)
       '@types/hast':
         specifier: ^3.0.4
